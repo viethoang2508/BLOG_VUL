@@ -1,5 +1,4 @@
-# Vuln Blog Plus (by ChatGPT)
-
+# Vuln Blog Plus 
 ## 🛠 Yêu cầu
 - XAMPP (Apache + MySQL)
 - PHP 7.x trở lên
