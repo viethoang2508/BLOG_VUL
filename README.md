@@ -37,5 +37,4 @@
 
 ## 📍 Demo chạy:
 - Tạo bài viết mới
-- Upload file test: shell.php
-- Truy cập file upload: `http://localhost/vuln_blog_plus/uploads/sh
+- Upload file test: 
